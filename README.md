@@ -123,5 +123,4 @@
 
 ---
 
-[Top](#az-000-azure-foo-bar)
 [Top](#azure-ai-&-copilot---microsoft-applied-skills)
