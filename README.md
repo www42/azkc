@@ -9,6 +9,8 @@
 - Learning Path 1: [Get started with AI applications and agents on Azure][LP1]
 - Learning Path 2: [Develop AI Agents on Azure][LP2]
 
+<br>
+
 
 ## Labs 🛠️
 
@@ -24,7 +26,6 @@
 [Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
 
 <br>
-
 
 
 ## Microsoft Learn 👨‍🎓
@@ -72,6 +73,7 @@
 
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
+<br>
 
 
 ## Useful Links 🤿
@@ -88,9 +90,8 @@
 
 [Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) Information is beautiful
 
-
-
 <br>
+
 
 ## Your Trainer
 #### Thomas Jäkel
@@ -120,8 +121,7 @@
 
 [Follow me on X (Twitter)](https://twitter.com/tjkkll)
 
-
-
 ---
 
 [Top](#az-000-azure-foo-bar)
+[Top](#azure-ai-&-copilot---microsoft-applied-skills)
