@@ -1,55 +1,27 @@
-[LP1]: https://foo
-[LP2]: https://bar
+[LP1]: https://learn.microsoft.com/en-us/training/paths/get-started-ai-apps-agents/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/
 
-# AZ-000 Azure foo bar
+
+# Azure AI & Copilot - Microsoft Applied Skills
 
 ## Learning Paths 🚀
 
-- Learning Path 1️: [Azure foo][LP1]
-- Learning Path 2️: [Azure bar][LP2]
+- Learning Path 1: [Get started with AI applications and agents on Azure][LP1]
+- Learning Path 2: [Develop AI Agents on Azure][LP2]
 
 
 ## Labs 🛠️
 
-<!-- 
-[Lab environment Skillable](https://alh.learnondemand.net/) 
-[Lab environment Skillable](https://brainymotion.learnondemand.net/)
-[Lab environment Skillable](https://gknetherlands.learnondemand.net)
-
--->
-
-<!--
 [Lab environment Go Deploy](https://lms.godeploy.it)
--->
-
-[GitHub Repo Microsoft Learn](https://github.com/foo)
-
-[Optional: Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo)
 
 <br>
 
 
-## Certification 🏅
+## Applied Skills 🏅
 
-|   |   |
-| - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft Certified: Fundamentals](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-expert-badge.svg"       width="100"/> | [Microsoft Certified: Expert](https://) |
+[Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 
-
-[Practice Assessment](https://)
-
-<br>
-
-
-## New: Microsoft Applied Skills 🎉
-
-[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
-
-[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
-
-[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+[Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
 
 <br>
 
@@ -57,15 +29,21 @@
 
 ## Microsoft Learn 👨‍🎓
 
+[AI Skills Fest June 8 - 12, 2026](https://aiskillsnavigator.microsoft.com/events/AISF2026)
+
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
+
+[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
+
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
 [Microsoft Credentials and Certifications](https://learn.microsoft.com/en-us/credentials/)
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
 [Microsoft Learn](https://learn.microsoft.com)
-
-[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
-
-[AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
 
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
@@ -73,51 +51,44 @@
 
 <br>
 
+
 ## Microsoft Documentation Landing Pages 📲
 
+[Microsoft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
+
+[Microsoft Foundry Classic documentation](https://learn.microsoft.com/en-us/azure/foundry-classic/)
+
+[Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+
+[Official Microsoft Learn MCP Server and CLI tool](https://github.com/microsoftdocs/mcp)
+
+[Azure Language in Foundry Tools documentation](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
+
+[Speech-to-Text Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-speech-to-text)
+
+[Text-to-Speech Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-text-to-speech)
+
+[The Speech CLI](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-basics?tabs=windowsinstall%2Cpowershell)
+
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
-
-[Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
-
-[Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
-
-[Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
-
-[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/)
-
-[Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
-
-[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
-
-[Kusto documentation](https://learn.microsoft.com/en-us/kusto/)
-
-[Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
-
-[Microsoft Entra ID Governance documentation](https://learn.microsoft.com/en-us/entra/id-governance/)
-
-[Microsoft cloud security benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/)
-
-[PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
-
-[Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
-
-[Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
-
-[Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
-
-[Microsoft Sentinel documentation ](https://learn.microsoft.com/en-us/azure/sentinel/)
 
 
 
 ## Useful Links 🤿
+
+[3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) Videos by Grant Sanderson. Großartige Visualisierung von Neuronalen Netzen.
+
+[MIT Introduction to Deep Learning](http://introtodeeplearning.com/) Ganze Vorlesungsreihe des MIT zu Deep Learning.
+
+[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) by Google authors. Das Original Paper für die Transformer Architektur.
+
+[What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Book by Stephen Wolfram (Mathematica).
+
+[The moment we stopped understanding AI](https://www.youtube.com/watch?v=UZDiGooFs54) Video by Stephen Welch.
+
+[Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) Information is beautiful
+
+
 
 <br>
 
