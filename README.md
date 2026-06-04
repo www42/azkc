@@ -14,7 +14,7 @@
 
 ## Labs 🛠️
 
-[Lab environment Go Deploy](https://lms.godeploy.it)
+➡️ [Lab environment Go Deploy](https://lms.godeploy.it) ⬅️
 
 <br>
 
