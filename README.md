@@ -6,8 +6,8 @@
 
 ## Learning Paths 🚀
 
-- Learning Path 1: [Get started with AI applications and agents on Azure][LP1]
-- Learning Path 2: [Develop AI Agents on Azure][LP2]
+- [Get started with AI applications and agents on Azure][LP1]
+- [Develop AI Agents on Azure][LP2]
 
 <br>
 
@@ -21,9 +21,8 @@
 
 ## Applied Skills 🏅
 
-[Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
-
-[Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
+- [Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
+- [Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
 
 <br>
 
