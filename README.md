@@ -27,6 +27,7 @@
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
+AI related Applied Skills
 - [Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 - [Microsoft Applied Skills: Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
 - [Microsoft Applied Skills: Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/)
