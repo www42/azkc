@@ -41,7 +41,7 @@
 
 [AI Skills Fest June 8 - 12, 2026](https://aiskillsnavigator.microsoft.com/events/AISF2026)
 
-### [From BUILD Conference last week](https://www.youtube.com/@MicrosoftDeveloper)
+#### From BUILD Conference last week
 - [Build the thing that builds the thing - Peter Steinberger](https://www.youtube.com/watch?v=o5IQMijn-Ks)
 - [Scott and Mark learn...how agents reshape software engineering - Scott Hanselman & Mark Russinovich ](https://www.youtube.com/watch?v=1h8UU_OVRTE)
 - [VibeOS - Fully Hallucinated Operating System - Steve Sanderson](https://www.youtube.com/watch?v=7NfyZhV1dKM)
@@ -56,7 +56,7 @@
 
 [Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
 
-### Three new modules on Agents
+#### Three new modules on Agents
 - [Memory, State, and Evaluation](https://learn.microsoft.com/en-us/training/modules/memory-state-evaluation/)
 - [Multi-Agent Systems and Orchestration](https://learn.microsoft.com/en-us/training/modules/multi-agent-systems-orchestration/)
 - [Governance, Guardrails, and Operations](https://learn.microsoft.com/en-us/training/modules/governance-guardrails-operations/)
