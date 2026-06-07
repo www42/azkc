@@ -41,19 +41,22 @@
 
 [AI Skills Fest June 8 - 12, 2026](https://aiskillsnavigator.microsoft.com/events/AISF2026)
 
-[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+### [From BUILD Conference last week](https://www.youtube.com/@MicrosoftDeveloper)
+- [Build the thing that builds the thing - Peter Steinberger](https://www.youtube.com/watch?v=o5IQMijn-Ks)
+- [Scott and Mark learn...how agents reshape software engineering - Scott Hanselman & Mark Russinovich ](https://www.youtube.com/watch?v=1h8UU_OVRTE)
+- [VibeOS - Fully Hallucinated Operating System - Steve Sanderson](https://www.youtube.com/watch?v=7NfyZhV1dKM)
 
-[Microsoft Credentials and Certifications](https://learn.microsoft.com/en-us/credentials/)
+[Microsoft Learn](https://learn.microsoft.com)
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
-[Microsoft Learn](https://learn.microsoft.com)
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 [Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
 
-Three new modules on Agents
+### Three new modules on Agents
 - [Memory, State, and Evaluation](https://learn.microsoft.com/en-us/training/modules/memory-state-evaluation/)
 - [Multi-Agent Systems and Orchestration](https://learn.microsoft.com/en-us/training/modules/multi-agent-systems-orchestration/)
 - [Governance, Guardrails, and Operations](https://learn.microsoft.com/en-us/training/modules/governance-guardrails-operations/)
@@ -85,6 +88,10 @@ Three new modules on Agents
 
 
 ## Useful Links 🤿
+
+[WWDC26 - Apple Developer](https://developer.apple.com/wwdc26/)
+
+[AI Learning Resources & Guides from Anthropic](https://www.anthropic.com/learn)
 
 [3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) Videos by Grant Sanderson. Großartige Visualisierung von Neuronalen Netzen.
 
