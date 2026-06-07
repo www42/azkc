@@ -21,7 +21,7 @@
 
 ## Applied Skills 🏅
 
-- [Microsoft Applied Skills: Get started developing agents in Microsoft Foundry]()
+- [Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 - [Microsoft Applied Skills: Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/build-a-generative-ai-chat-app/)
 - [Microsoft Applied Skills: Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/)
 - [Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
