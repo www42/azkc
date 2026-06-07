@@ -21,10 +21,17 @@
 
 ## Applied Skills 🏅
 
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
+
+[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
+
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
 - [Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
-- [Microsoft Applied Skills: Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/build-a-generative-ai-chat-app/)
+- [Microsoft Applied Skills: Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
 - [Microsoft Applied Skills: Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/)
 - [Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
+- [Microsoft Applied Skills: Secure AI solutions in the cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/)
 
 <br>
 
@@ -32,12 +39,6 @@
 ## Microsoft Learn 👨‍🎓
 
 [AI Skills Fest June 8 - 12, 2026](https://aiskillsnavigator.microsoft.com/events/AISF2026)
-
-[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
-
-[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
-
-[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
@@ -50,6 +51,11 @@
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 [Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
+
+Three new modules on Agents
+- [Memory, State, and Evaluation](https://learn.microsoft.com/en-us/training/modules/memory-state-evaluation/)
+- [Multi-Agent Systems and Orchestration](https://learn.microsoft.com/en-us/training/modules/multi-agent-systems-orchestration/)
+- [Governance, Guardrails, and Operations](https://learn.microsoft.com/en-us/training/modules/governance-guardrails-operations/)
 
 <br>
 
