@@ -8,15 +8,14 @@
 
 ## Seminar 8. - 11. Juni 2026
 
-### Applied Skills - Get started developing agents in Microsoft Foundry
+### Microsoft Applied Skills - Get started developing agents in Microsoft Foundry
 
-[Emails](./Applied_Skills/Get_started_developing_agents_in_Microsoft_Foundry-Emails.md)
-
-[Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
+- [Emails](./Applied_Skills/Get_started_developing_agents_in_Microsoft_Foundry-Emails.md)
+- [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 
 <br>
 
-### Applied Skills - Build a generative AI chat app
+### Microsoft Applied Skills - Build a generative AI chat app
 
 [Emails](./Applied_Skills/Build_a_generative_AI_chat_app/Build_a_generative_AI_chat_app-Emails.md)
 
