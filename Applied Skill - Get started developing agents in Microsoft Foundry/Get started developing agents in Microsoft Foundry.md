@@ -1,6 +1,6 @@
 [Microsoft Applied Skills: Get started developing agents in Microsoft Foundry](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 
-Date_ 2026-06-06
+Date: 2026-06-06
 
 ---
 
