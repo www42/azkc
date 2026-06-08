@@ -4,6 +4,16 @@
 
 # Azure AI & Copilot - Microsoft Applied Skills
 
+<br>
+## Seminar 8. - 11. Juni 2026
+
+➡️ [Applied Skill - Get started developing agents in Microsoft Foundry](Applied%20Skill%20-%20Get%20started%20developing%20agents%20in%20Microsoft%20Foundry/Get%20started%20developing%20agents%20in%20Microsoft%20Foundry.md) ⬅️
+
+[Präsentation](pdf/)
+
+<br>
+<br>
+
 ## Learning Paths 🚀
 
 - [Develop generative AI apps in Azure][LP1]
@@ -14,7 +24,7 @@
 
 ## Labs 🛠️
 
-➡️ [Lab environment Go Deploy](https://lms.godeploy.it) ⬅️
+[Lab environment Go Deploy](https://lms.godeploy.it) 
 
 <br>
 
