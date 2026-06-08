@@ -10,8 +10,8 @@
 
 - ### Microsoft Applied Skills - Get started developing agents in Microsoft Foundry
 
-- [Emails](./Applied_Skills/Get_started_developing_agents_in_Microsoft_Foundry-Emails.md)
-- [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
+    - [Emails](./Applied_Skills/Get_started_developing_agents_in_Microsoft_Foundry-Emails.md)
+    - [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 
 
 
