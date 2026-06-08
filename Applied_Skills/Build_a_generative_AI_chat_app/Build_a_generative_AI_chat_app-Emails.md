@@ -1,4 +1,4 @@
-[Microsoft Applied Skills: Build a generative AI chat app - Applied Skills](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
+[Microsoft Applied Skills: Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
 
 Date: 2026/04/29
 
