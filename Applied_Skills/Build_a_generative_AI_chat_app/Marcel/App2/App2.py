@@ -15,7 +15,6 @@ if not all([endpoint, deployment_name, api_key]):
 client = ChatCompletionsClient(
     endpoint=endpoint,
     credential=AzureKeyCredential(api_key),
-    api_version="2024-06-01",
     max_tokens=800
 )
 
