@@ -1,6 +1,3 @@
-[LP1]: https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
-[LP2]: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/
-
 
 # Azure AI & Copilot - Microsoft Applied Skills
 
@@ -32,9 +29,6 @@
 <br>
 
 ## Learning Paths 🚀
-
-- [Develop generative AI apps in Azure][LP1]
-- [Develop AI Agents on Azure][LP2]
 
 <br>
 
