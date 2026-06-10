@@ -38,6 +38,11 @@
 
 <br>
 
+[LP1 LP]: https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
+[LP2 LP]: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/
+[LP3 LP]: https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/
+[LP4 LP]: https://learn.microsoft.com/en-us/training/paths/insight-visual-data/
+
 [LP1 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-studio
 [LP2 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-agents
 [LP3 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-language
