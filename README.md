@@ -38,6 +38,27 @@
 
 <br>
 
+[LP1 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-studio
+[LP2 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-agents
+[LP3 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-language
+[LP4 Repo1]: https://github.com/MicrosoftLearning/mslearn-ai-vision
+[LP4 Repo2]: https://github.com/MicrosoftLearning/mslearn-ai-information-extraction
+
+[LP1 Labs]: https://microsoftlearning.github.io/mslearn-ai-studio/
+[LP2 Labs]: https://microsoftlearning.github.io/mslearn-ai-agents/
+[LP3 Labs]: https://microsoftlearning.github.io/mslearn-ai-language/
+[LP4 Labs1]: https://microsoftlearning.github.io/mslearn-ai-vision/
+[LP4 Labs2]: https://microsoftlearning.github.io/mslearn-ai-information-extraction/
+
+| Learning Path                                             | GitHub Repo                                    | Labs Übersicht    |
+| :-------------------------------------------------------- | :--------------------------------------------- | :---------------- |
+| [LP1 Develop generative AI apps in Azure][LP1 LP]         | [mslearn-ai-studio][LP1 Repo]                  | [Labs][LP1 Labs]  |
+| [LP2 Develop AI agents on Azure][LP2 LP]                  | [mslearn-ai-agents][LP2 Repo]                  | [Labs][LP2 Labs]  |
+| [LP3 Develop natural language solutions in Azure][LP3 LP] | [mslearn-ai-language][LP3 Repo]                | [Labs][LP3 Labs]  |
+| [LP4 Extract insights from visual data on Azure][LP4 LP]  | [mslearn-ai-vision][LP4 Repo1] <br> [mslearn-ai-information-extraction][LP4 Repo2] | [Labs][LP4 Labs1] <br> [Labs][LP4 Labs2]|
+
+<br>
+
 
 ## Labs 🛠️
 
