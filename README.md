@@ -18,6 +18,7 @@
     - [Emails](./Applied_Skills/Build_a_generative_AI_chat_app/Build_a_generative_AI_chat_app-Emails.md)
     - [App1 and App2](./Applied_Skills/Build_a_generative_AI_chat_app/Repos/)
     - [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
+    - [Danke Marcel](./Applied_Skills/Build_a_generative_AI_chat_app/Marcel/)
 
 
 <br>
