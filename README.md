@@ -18,6 +18,11 @@
     - [Danke Marcel](./Applied_Skills/Build_a_generative_AI_chat_app/Marcel/)
 
 
+- ### Microsoft Applied Skills - Integrate model context protocol tools with agents in Microsoft Foundry 🏅
+    - [Emails](./Applied_Skills/Integrate_model_context_protocol_tools_with_agents_in_Microsoft_Foundry-Emails.md)
+    - [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
+
+
 <br>
 
 <br>
